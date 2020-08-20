@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="jp.co.cyberagent.android.gpuimage"
+4    android:versionCode="4"
+5    android:versionName="1.0.3" >
+6
+7    <uses-sdk
+7-->/Users/pc/WorkingData/Home Product/Image_Filter_demo/gpuimage/src/main/AndroidManifest.xml:6:5-47
+8        android:minSdkVersion="8"
+8-->/Users/pc/WorkingData/Home Product/Image_Filter_demo/gpuimage/src/main/AndroidManifest.xml:6:5-47
+9        android:targetSdkVersion="15" />
+9-->/Users/pc/WorkingData/Home Product/Image_Filter_demo/gpuimage/src/main/AndroidManifest.xml:6:15-44
+10
+11    <application />
+11-->/Users/pc/WorkingData/Home Product/Image_Filter_demo/gpuimage/src/main/AndroidManifest.xml:8:5-20
+12
+13</manifest>
